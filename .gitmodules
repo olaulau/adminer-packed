@@ -1,6 +1,0 @@
-[submodule "adminer"]
-	path = adminer
-	url = https://github.com/vrana/adminer/
-[submodule "adminer-theme"]
-	path = adminer-theme
-	url = https://github.com/pematon/adminer-theme
