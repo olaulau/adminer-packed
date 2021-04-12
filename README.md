@@ -11,15 +11,30 @@ adminer packed with theme and plugins
 - [adminer](https://github.com/vrana/adminer)
 - [adminer-theme](https://github.com/pematon/adminer-theme) green
 - official plugins enabled :
-    - dump-bz2
+    - DumpBz2
+    - DumpDate
+    - DumpJson
+    - DumpXml
+    - DumpZip
+    - EnumOption
+    - ForeignSystem
+    - StructComments
+    - TablesFilter
+    - Tinymce
 - unofficial plugins added and enabled
-    - none
-    
+    - Colorfields
+    - DumpMarkdownDict
+    - FloatThead
+    - DumpArray
+    - ReadableDates
+    - Resize
+    - searchAutocomplete
+    - SuggestTableField
 
 
 ## installation
 
-###clone
+### clone
 ```
 git clone --recursive https://github.com/olaulau/adminer-packed
 ```
