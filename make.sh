@@ -28,4 +28,4 @@ cp lib/adminer.resize/resize.php dist/plugins/
 cp lib/AdminerPlugins/searchAutocomplete.php dist/plugins/
 cp lib/icyz-adminer/plugins/suggest-tablefields.php dist/plugins/
 
-cp index.php dist/
+cp index_.php dist/index.php
