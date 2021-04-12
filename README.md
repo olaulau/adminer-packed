@@ -38,15 +38,15 @@ adminer packed with theme and plugins
 ```
 git clone --recursive https://github.com/olaulau/adminer-packed
 ```
-
 ### generate / update
 
 ```
 cd adminer-packed
 ./make.sh
 cd ..
-sudo cp -R adminer-packed/dist /var/ww/html/adminer
 ```
+### install
+``sudo ln -s adminer-packed/dist /var/www/html/adminer``  
 --> [http:/localhost/adminer/](http:/localhost/adminer/)
 
 
