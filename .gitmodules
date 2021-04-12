@@ -4,3 +4,27 @@
 [submodule "adminer"]
 	path = adminer
 	url = https://github.com/vrana/adminer/
+[submodule "adminer-colorfields"]
+	path = lib/adminer-colorfields
+	url = https://github.com/smuuf/adminer-colorfields
+[submodule "AdminerDumpMarkdownDict"]
+	path = lib/AdminerDumpMarkdownDict
+	url = https://github.com/sc419/AdminerDumpMarkdownDict
+[submodule "adminer-floatThead"]
+	path = lib/adminer-floatThead
+	url = https://github.com/stano/adminer-floatThead
+[submodule "AdminerPHPExport"]
+	path = lib/AdminerPHPExport
+	url = https://github.com/gremki/AdminerPHPExport
+[submodule "9ee4a9f1405ffc1465f59e03768e2768"]
+	path = lib/9ee4a9f1405ffc1465f59e03768e2768
+	url = https://gist.github.com/scr4bble/9ee4a9f1405ffc1465f59e03768e2768
+[submodule "adminer.resize"]
+	path = lib/adminer.resize
+	url = https://github.com/TiagoGilMarques/adminer.resize
+[submodule "AdminerPlugins"]
+	path = lib/AdminerPlugins
+	url = https://github.com/derStephan/AdminerPlugins
+[submodule "lib/icyz-adminer"]
+	path = lib/icyz-adminer
+	url = https://github.com/icyz/adminer
